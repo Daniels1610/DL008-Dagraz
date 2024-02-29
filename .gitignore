@@ -1,0 +1,8 @@
+venv
+.vscode
+logs
+__pycache__
+.DS_Store
+.python-version
+TensorboardTest.ipynb
+TestGPU.ipynb
