@@ -7,6 +7,6 @@ Due to educational purposes, we are using Tensorflow and Keras as our main techo
 ```bash
 git clone https://github.com/Daniels1610/DL008-Dagraz.git
 ```
-
-**Bibliography**
+  
+#### **Bibliography**  
 [1] Joseph, M. (2022). *Modern Time Series Forecasting with Python*. Packt
