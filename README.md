@@ -1,5 +1,4 @@
 # 🕸️ Deep Learning
----
 As part of my 8th Semester subject, Deep Learning is a subfield within Machine Learning.  
 "A model is called deep learning when it involves automatic feature learnning from raw data" [1].   
 Due to educational purposes, we are using Tensorflow and Keras as our main techonologies
