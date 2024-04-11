@@ -6,3 +6,5 @@ __pycache__
 .python-version
 TensorboardTest.ipynb
 TestGPU.ipynb
+models
+logs/fit
